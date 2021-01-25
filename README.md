@@ -1,2 +1,2 @@
-# ui5fin
-burn mazafaka burn
+# ui5fish
+Fish for new SAPUI5 web applications

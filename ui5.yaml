@@ -1,0 +1,10 @@
+specVersion: '2.1'
+metadata:
+  name: SOLMAN
+type: application
+framework:
+  name: SAPUI5
+  version: "1.78.0"
+  libraries:
+    - name: sap.m
+    - name: sap.ui.core
